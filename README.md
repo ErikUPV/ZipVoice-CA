@@ -3,6 +3,8 @@
 This repository contains the tools and instructions necessary to **fine-tune the ZipVoice model for Catalan Text-to-Speech (TTS)**. It includes environment setup, data preparation, fine-tuning, and evaluation pipelines. These are the models results vs [Matxa-TTS](https://huggingface.co/projecte-aina/matxa-tts-cat-multiaccent) in our experimental setup.
 They are intended as **indicative benchmarks**, not as claims of state-of-the-art performance.
 
+You can listen to some samples by clicking this [link](https://erikupv.github.io/zipvoice-samples/)
+
 
 ## Common Voice 17
 
