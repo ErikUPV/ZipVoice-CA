@@ -1,0 +1,8 @@
+faster_whisper
+jiwer
+os
+pandas
+tqdm
+whisper
+argparse
+num2words
