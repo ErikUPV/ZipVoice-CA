@@ -192,4 +192,4 @@ This will compute objective metrics and UTMOS-based MOS predictions for the gene
 ---
 
 Happy synthesizing! 🎙️
-
+![Demo](https://media1.tenor.com/m/WvTbUOzmb8kAAAAd/happy-synthesizer-gumi.gif)
